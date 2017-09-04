@@ -1,0 +1,25 @@
+{
+  "name": "google-material-design-icons",
+  "version": "1.0.0",
+  "description": "Google Material Icon font family for npm use (personal)",
+  "main": "icons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayraegah/google-material-design-icons.git"
+  },
+  "keywords": [
+    "material",
+    "icons",
+    "font",
+    "css"
+  ],
+  "author": "Rayraegah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayraegah/google-material-design-icons/issues"
+  },
+  "homepage": "https://github.com/rayraegah/google-material-design-icons#readme"
+}
